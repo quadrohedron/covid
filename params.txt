@@ -1,0 +1,3 @@
+POW_GLOBAL	float	0.7
+POW_LATAM	float	1
+RATING_LIMIT	int	15
